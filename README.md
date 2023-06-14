@@ -1,4 +1,4 @@
-# An-Educational-Module-on-Fire-and-Explosion-Safety-for-Undergraduate-Chemical-Engineering-Students
+# Educational-Module
 This repository contains data referenced in the manuscript entitled:
 
 An Educational Module on Fire and Explosion Safety for Undergraduate Chemical Engineering Students by Luis Vallejo-Molina1, Sebastian López1, David Soto1, Andrés Ortiz1, Henry Copete2, Jorge Molina-Escobar3, Michael Woodrow4, José Torero4, Alejandro Molina1
